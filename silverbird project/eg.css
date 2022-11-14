@@ -1,0 +1,24 @@
+.j1{
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.575), rgba(0, 0, 0, 0.623)), url("./netflixback.jpg");
+    height: 100vh;
+    background-size: cover;
+    object-fit: cover;
+}
+
+
+
+.j2{
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+    align-items: center;
+}
+
+.j3{
+    height: fit-content;
+    padding: 5px 10px;
+    background-color: red;
+    color: white;
+    border: none;
+}
+
